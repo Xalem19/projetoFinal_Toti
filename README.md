@@ -1,5 +1,5 @@
-# <p align="center">Projeto Final</p> 
-![Toti_logo_principal-e1626784943120](https://user-images.githubusercontent.com/99887454/184239247-ae0b4b3a-e000-4747-9e5c-143255803843.png)
+# <p align="center">Projeto Final </p> 
+<img src= "https://user-images.githubusercontent.com/99887454/184239247-ae0b4b3a-e000-4747-9e5c-143255803843.png" width="100" height="40"> </a> <img src= "https://user-images.githubusercontent.com/99887454/184241015-ec4f69c1-0a60-4059-8881-e541824130ac.jpg" width="100" height="40">
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
 
