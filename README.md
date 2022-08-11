@@ -1,4 +1,8 @@
 # <p align="center">Projeto Final</p> 
+![Toti_logo_principal-e1626784943120](https://user-images.githubusercontent.com/99887454/184239247-ae0b4b3a-e000-4747-9e5c-143255803843.png)
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
+
 Projeto Final do curso de formação como Analista de Dados, com a Toti Diversidade,  plataforma de ensino que forma refugiados e migrantes através de um curso preparado para atender as demandas das empresas. Nesta oportunidade a empresa parceira com a Toti foi o Hospital Israelita Albert Einstein.<br>
 O grupo foi composto por 4 alunos da turma, a continuação os requerimentos. 
 ## *Turma 14 Grupo 1*
